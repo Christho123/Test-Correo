@@ -1,0 +1,23 @@
+{
+  "name": "test-correo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christho123/Test-Correo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christho123/Test-Correo/issues"
+  },
+  "homepage": "https://github.com/Christho123/Test-Correo#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
